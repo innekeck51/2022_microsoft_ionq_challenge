@@ -1,7 +1,7 @@
 # Classical vs Quantum World Agent on Snake Game Using IonQ-Qiskit
 
-## Participant of iQuHACK MIT 2022
-The project team consists of myself, I am Inneke Cynthia Kusumawardhani, from Indonesia. 
+## Personal experience
+The project team consists of myself, I am Inneke Cynthia Kusumawardhani, from Indonesia. Love quantum information science
 
 ![](/img/AnimatedGames.gif)
 Ilustration Agent on Snake Game
